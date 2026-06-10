@@ -35,4 +35,7 @@ cat >> /etc/hosts << 'HOSTS'
 192.168.56.50  db
 HOSTS
 
+echo "[common] Executando firewall"
+bash /vagrant/provision/firewall.sh
+
 echo "[common] Concluido."

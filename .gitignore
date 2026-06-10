@@ -2,5 +2,5 @@
 cache/
 moodledata/
 *.log
-.csv
-.png
+*.csv
+*.png
