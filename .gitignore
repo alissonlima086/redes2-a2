@@ -1,0 +1,6 @@
+.vagrant/
+cache/
+moodledata/
+*.log
+.csv
+.png
